@@ -20,7 +20,7 @@ h6 {
     
 }
 #bg{
-    background-image: url(https://raw.githubusercontent.com/pradeeppsapps/psapps/master/bg.PNG);
+    background-image: url(https://raw.githubusercontent.com/pradeeppsapps/psapps/master/bg.png);
    
     background-repeat: no-repeat;
     min-height:600px;
@@ -59,4 +59,3 @@ h6 {
 #size{
     max-height:200px;
 }
-
